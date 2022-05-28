@@ -1,0 +1,18 @@
+.metadata {
+  display: flex;
+  justify-content: space-between;
+}
+.metadata > a {
+  text-decoration: none;
+}
+.createdat {
+  opacity: 0.5;
+}
+.title
+ {
+  display: flex;
+  justify-content: flex-start;
+}
+.content >p {
+    text-align: left !important;
+}

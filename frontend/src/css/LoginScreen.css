@@ -1,0 +1,21 @@
+.container_form {
+  max-width: 60%;
+  border: 1px solid RGBA(105, 105, 105, 1);
+  border-radius: 5px;
+  box-shadow: 10px 5px 5px gray;
+}
+.container_wrap {
+  margin: 10px 30px;
+}
+.email,.password{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.login_btn{
+    margin-top: 20px;
+}
+.dangky{
+    margin-top: 15px;
+}
